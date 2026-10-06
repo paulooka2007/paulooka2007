@@ -29,15 +29,38 @@ Atualmente estou focado em desenvolver uma base sólida em programação, desenv
 
 <div align="center">
 
-|    Linguagem   |          Tecnologias          |
-| :------------: | :---------------------------: |
-|    **Java**    | Desenvolvimento de aplicações |
-| **JavaScript** |      Desenvolvimento web      |
-|   **Python**   |    Programação e automação    |
-| **HTML / CSS** |   Desenvolvimento front-end   |
-|     **SQL**    |        Bancos de dados        |
+### Linguagens
+
+<a href="https://www.java.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+</a>
+
+### Desenvolvimento Web
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+</a>
+
+### Banco de Dados
+
+<a href="https://www.mysql.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL / MySQL"/>
+</a>
 
 </div>
+
 
 ---
 
