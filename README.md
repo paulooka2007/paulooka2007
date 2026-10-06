@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi sou Paulo Oka!
+# Oi, sou Paulo Oka!
 
 ### Estudante de Ciência da Computação | Desenvolvimento de Software
 
@@ -53,15 +53,15 @@ Atualmente estou focado em desenvolver uma base sólida em programação, desenv
 
 ## Projetos
 
-> Em constante desenvolvimento.
-
-Este perfil reúne projetos desenvolvidos durante minha graduação e estudos pessoais, com foco em aprendizado, programação e desenvolvimento de software.
+Projetos acadêmicos desenvolvidos durante minha graduação, envolvendo desenvolvimento de aplicações, lógica de programação, desenvolvimento web e resolução de problemas.
 
 ### Projetos em destaque
 
-| Projeto      | Tecnologias | Descrição                                              |
-| :----------- | :---------: | :----------------------------------------------------- |
-| **Em breve** |      —      | Projetos acadêmicos e pessoais serão adicionados aqui. |
+| Projeto                                                                        |    Tecnologias   | Descrição                                                                                      |
+| :----------------------------------------------------------------------------- | :--------------: | :--------------------------------------------------------------------------------------------- |
+| [**DinoDB**](https://github.com/tcigualchi/dinoDB.exe)                         | Java, JavaScript | Aplicação acadêmica relacionada a dinossauros, desenvolvida em equipe.                         |
+| [**CryptoFunction**](https://github.com/tcigualchi/CryptoFunctione)            |       Java       | Projeto educacional desenvolvido para apresentar conceitos de criptografia de forma acessível. |
+| [**Capybara Math Racing**](https://github.com/tcigualchi/Capybara-Math-Racing) |    JavaScript    | Projeto acadêmico gamificado voltado ao aprendizado de operações matemáticas.                  |
 
 ---
 
