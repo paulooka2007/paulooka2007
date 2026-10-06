@@ -1,29 +1,117 @@
-## Oi sou Paulo Oka!
+<div align="center">
 
-Estudante de Ciência da Computação na Universidade Paulista (UNIP), atualmente no 4º semestre.
+# Oi sou Paulo Oka!
 
-Tenho interesse em Desenvolvimento de Software e venho aprimorando meus conhecimentos por meio de projetos acadêmicos e pessoais.
+### Estudante de Ciência da Computação | Desenvolvimento de Software
+
+Estudante de Ciência da Computação na **Universidade Paulista (UNIP)**, atualmente no 4º semestre.
+
+Tenho interesse em **Desenvolvimento de Software** e venho aprimorando meus conhecimentos através de projetos acadêmicos e pessoais.
+
+</div>
+
+---
+
+## Sobre mim
+
+```text
+Estudante de Ciência da Computação
+Foco: Desenvolvimento de Software
+Localização: Campinas, São Paulo
+Status: Buscando oportunidade de estágio
+```
+
+Atualmente estou focado em desenvolver uma base sólida em programação, desenvolvimento de aplicações e bancos de dados, enquanto construo projetos para colocar meus conhecimentos em prática.
+
+---
 
 ## Tecnologias
-Java,
-JavaScript,
-Python,
-HTML e CSS,
-SQL
 
-## Atualmente:
+<div align="center">
 
-Cursando Ciência da Computação na UNIP
-Desenvolvendo projetos acadêmicos e pessoais
-Aprimorando meus conhecimentos em programação e desenvolvimento de software
-Buscando uma oportunidade de estágio na área de Desenvolvimento de Software
-Projetos
+|    Linguagem   |          Tecnologias          |
+| :------------: | :---------------------------: |
+|    **Java**    | Desenvolvimento de aplicações |
+| **JavaScript** |      Desenvolvimento web      |
+|   **Python**   |    Programação e automação    |
+| **HTML / CSS** |   Desenvolvimento front-end   |
+|     **SQL**    |        Bancos de dados        |
 
-Este perfil reúne projetos desenvolvidos durante minha graduação e estudos pessoais, com foco em aprendizado e desenvolvimento de software.
+</div>
+
+---
+
+## Atualmente
+
+* Cursando **Ciência da Computação na UNIP**
+* Desenvolvendo projetos acadêmicos e pessoais
+* Aprimorando conhecimentos em programação e desenvolvimento de software
+* Estudando novas tecnologias e boas práticas de desenvolvimento
+* Buscando uma oportunidade de **estágio em Desenvolvimento de Software**
+
+---
+
+## Projetos
+
+> Em constante desenvolvimento.
+
+Este perfil reúne projetos desenvolvidos durante minha graduação e estudos pessoais, com foco em aprendizado, programação e desenvolvimento de software.
+
+### Projetos em destaque
+
+| Projeto      | Tecnologias | Descrição                                              |
+| :----------- | :---------: | :----------------------------------------------------- |
+| **Em breve** |      —      | Projetos acadêmicos e pessoais serão adicionados aqui. |
+
+---
+
+## Conhecimentos
+
+```text
+Programação
+├── Java
+├── JavaScript
+└── Python
+
+Web
+├── HTML
+├── CSS
+└── JavaScript
+
+Banco de Dados
+└── SQL
+```
+
+---
 
 ## Idiomas
-Português: Nativo 
 
-Inglês: Fluente
+| Idioma    |  Nível  |
+| :-------- | :-----: |
+| Português |  Nativo |
+| Inglês    | Fluente |
+
+---
+
 ## Contato
-E-mail: paulo.oka2007@gmail.com
+
+<div align="center">
+
+**E-mail**
+
+[paulo.oka2007@gmail.com](mailto:paulo.oka2007@gmail.com)
+
+<br>
+
+Estou aberto a oportunidades de **estágio em Desenvolvimento de Software**.
+
+</div>
+
+---
+
+<div align="center">
+
+*Este perfil está em constante evolução conforme novos projetos e conhecimentos são desenvolvidos.*
+
+</div>
+
